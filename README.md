@@ -4,7 +4,7 @@ Welcome to the front page of our Food App! Our Food App is designed to provide u
 
 ## Deployment
 
-[![Vercel Deployment](https://food-ordering-webpage-react.vercel.app/)]
+[![Vercel Deployment](https://vercel.com/button)](https://food-ordering-webpage-react.vercel.app/)
 
 ## Features
 
