@@ -12,7 +12,10 @@ Welcome to the front page of our Food App! Our Food App is designed to provide u
 
 To get started with our Food App, follow these simple steps:
 
-1. **Clone the Repository:** Clone our repository to your local machine using the following command:`git clone https://github.com/yourusername/food-app.git`
+1. **Clone the Repository:** Clone our repository to your local machine using the following command:
+```bash
+git clone https://github.com/yourusername/food-app.git
+```
 
 2. **Install Dependencies:** Navigate to the project directory and install dependencies using npm or yarn:
 ```bash
