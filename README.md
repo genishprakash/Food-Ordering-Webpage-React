@@ -2,6 +2,10 @@
 
 Welcome to the front page of our Food App! Our Food App is designed to provide users with an intuitive and delightful experience for exploring, ordering, and enjoying delicious food from their favorite restaurants.
 
+## Deployment
+
+[![Vercel Deployment](https://food-ordering-webpage-react.vercel.app/)]
+
 ## Features
 
 - **User-friendly Interface:** Our front page features a clean and intuitive user interface, making it easy for users to navigate and find what they're looking for.
