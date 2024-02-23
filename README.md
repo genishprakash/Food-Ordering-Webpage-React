@@ -25,7 +25,7 @@ npm install
 
 3. **Run the App:** Start the development server to run the app locally:
 ```bash
-    npm run dev
+npm run dev
 ```
 
 4. **Explore the Front Page:** Once the app is running, open your web browser and navigate to [http://localhost:5173](http://localhost:5173) to explore the front page of our Food App.
